@@ -1,0 +1,9 @@
+C:\Users\Travis\GoogleDrive\code\VS2017\Shifter\Shifter\bin\Release\Shifter.exe.config
+C:\Users\Travis\GoogleDrive\code\VS2017\Shifter\Shifter\bin\Release\Shifter.exe
+C:\Users\Travis\GoogleDrive\code\VS2017\Shifter\Shifter\bin\Release\Shifter.pdb
+C:\Users\Travis\GoogleDrive\code\VS2017\Shifter\Shifter\obj\Release\Shifter.Form1.resources
+C:\Users\Travis\GoogleDrive\code\VS2017\Shifter\Shifter\obj\Release\Shifter.Properties.Resources.resources
+C:\Users\Travis\GoogleDrive\code\VS2017\Shifter\Shifter\obj\Release\Shifter.csproj.GenerateResource.cache
+C:\Users\Travis\GoogleDrive\code\VS2017\Shifter\Shifter\obj\Release\Shifter.csproj.CoreCompileInputs.cache
+C:\Users\Travis\GoogleDrive\code\VS2017\Shifter\Shifter\obj\Release\Shifter.exe
+C:\Users\Travis\GoogleDrive\code\VS2017\Shifter\Shifter\obj\Release\Shifter.pdb

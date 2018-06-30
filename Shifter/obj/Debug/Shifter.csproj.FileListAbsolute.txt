@@ -1,0 +1,10 @@
+C:\Users\Travis\GoogleDrive\code\VS2017\Shifter\Shifter\bin\Debug\Shifter.exe.config
+C:\Users\Travis\GoogleDrive\code\VS2017\Shifter\Shifter\bin\Debug\Shifter.exe
+C:\Users\Travis\GoogleDrive\code\VS2017\Shifter\Shifter\bin\Debug\Shifter.pdb
+C:\Users\Travis\GoogleDrive\code\VS2017\Shifter\Shifter\obj\Debug\Shifter.csprojResolveAssemblyReference.cache
+C:\Users\Travis\GoogleDrive\code\VS2017\Shifter\Shifter\obj\Debug\Shifter.Form1.resources
+C:\Users\Travis\GoogleDrive\code\VS2017\Shifter\Shifter\obj\Debug\Shifter.Properties.Resources.resources
+C:\Users\Travis\GoogleDrive\code\VS2017\Shifter\Shifter\obj\Debug\Shifter.csproj.GenerateResource.cache
+C:\Users\Travis\GoogleDrive\code\VS2017\Shifter\Shifter\obj\Debug\Shifter.csproj.CoreCompileInputs.cache
+C:\Users\Travis\GoogleDrive\code\VS2017\Shifter\Shifter\obj\Debug\Shifter.exe
+C:\Users\Travis\GoogleDrive\code\VS2017\Shifter\Shifter\obj\Debug\Shifter.pdb

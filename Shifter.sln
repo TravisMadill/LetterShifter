@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shifter", "Shifter\Shifter.csproj", "{FC5EF650-A206-451B-8803-6ECA7B5BE76B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC5EF650-A206-451B-8803-6ECA7B5BE76B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC5EF650-A206-451B-8803-6ECA7B5BE76B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC5EF650-A206-451B-8803-6ECA7B5BE76B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC5EF650-A206-451B-8803-6ECA7B5BE76B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56E601B5-929E-46AF-8B4E-4F30C759D2A4}
+	EndGlobalSection
+EndGlobal
